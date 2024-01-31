@@ -14,8 +14,8 @@ This interactive dashboards offer a user-friendly way to analyze HR data, facili
 2. Average Age : Understand the age distribution of our workforce, guiding strategies for talent development and succession planning.
 3. Total Employees : Get an up-to-date count of our workforce, reflecting the scope and scale of our organization.
 
-# Detailed Breakdowns;
-1. Attrition by Department : Dive into department-specific attrition rates, empowering us to focus our retention efforts where they are needed the most.
+# Detailed Breakdowns:
+1.Attrition by Department : Dive into department-specific attrition rates, empowering us to focus our retention efforts where they are needed the most.
 2.Attrition by Age : Explore attrition trends across different age groups, facilitating targeted initiatives for different generations.
 3.Attrition by Marital Status : Understand how marital status influences attrition, aiding us in creating a supportive work environment.
 4.Attrition by Job Role : Analyze attrition patterns based on job roles, assisting in optimizing job design and career paths.
