@@ -22,3 +22,5 @@ This interactive dashboards offer a user-friendly way to analyze HR data, facili
 5.Attrition by Job Seniority : Gain insights into how attrition varies across job seniority levels, guiding leadership and growth strategies.
 
 #HRAnalytics #DataDrivenHR #EmployeeEngagement #WorkforceInsights #dashboard #hrdashboard #dataanalytics #HRAnalyticsdashboard #businessanalyst #humanresource
+
+link to the dashboard :- https://www.novypro.com/project/hr-analytics-dashboard-296
